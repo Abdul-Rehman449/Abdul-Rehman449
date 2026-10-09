@@ -45,7 +45,6 @@ Currently open to **internships**, **collaborations**, and **freelance projects*
 | [🖼️ Imagify](https://github.com/Abdul-Rehman449/Abdul-Rehman449-Imagify) | JavaScript | AI-powered image generation web app built with StackBlitz |
 | [📊 Log Analyzer](https://github.com/Abdul-Rehman449/log-analyzer) | Python | CLI tool for parsing and analyzing system log files |
 | [🚌 Smart Commute App](https://github.com/Abdul-Rehman449/smart-commute-app) | HTML | Web app to simplify urban commute planning |
-| [🔗 Doc Connect](https://github.com/Abdul-Rehman449/doc-connect) | — | Doctor-patient connection platform |
 
 ---
 
